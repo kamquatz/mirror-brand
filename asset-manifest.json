@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mirror-brand/static/css/main.2cce8147.chunk.css",
+    "main.js": "/mirror-brand/static/js/main.0fb0d7d6.chunk.js",
+    "main.js.map": "/mirror-brand/static/js/main.0fb0d7d6.chunk.js.map",
+    "runtime~main.js": "/mirror-brand/static/js/runtime~main.3adb2d63.js",
+    "runtime~main.js.map": "/mirror-brand/static/js/runtime~main.3adb2d63.js.map",
+    "static/js/2.b41502e9.chunk.js": "/mirror-brand/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/mirror-brand/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/mirror-brand/index.html",
+    "precache-manifest.2f179109e3c4783f966639cdc50aadc0.js": "/mirror-brand/precache-manifest.2f179109e3c4783f966639cdc50aadc0.js",
+    "service-worker.js": "/mirror-brand/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/mirror-brand/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/mirror-brand/static/media/logo.5d5d9eef.svg"
+  }
+}
